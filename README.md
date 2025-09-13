@@ -1,2 +1,3 @@
-# lab2-project
+﻿# lab2-project
 лааба намбер 2
+муаххахаха
